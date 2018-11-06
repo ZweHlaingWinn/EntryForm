@@ -1,0 +1,103 @@
+
+
+.navbar{
+ background:#330000;
+
+}
+.nav-link , .navbar-brand{
+ color: #f4f4f4;
+ cursor: pointer;
+}
+.nav-link{
+ margin-right: 1em !important;
+}
+.nav-link:hover{
+ background: #f4f4f4;
+ color: #f97300;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+
+ .text-left{
+ 	padding-top: 140px;
+ }
+ .sidenav{
+ 	padding-top: 140px;
+ }
+ .sidenav1{
+ 	padding-top: 140px;
+ 	padding-left:0%;
+
+ }
+
+ .mission{
+ 	padding-top: 10px;
+ 	padding-left: 10px;
+ }
+ .vision{
+ 	padding-top: 20px;
+ 	padding-left: 10px;
+ }
+ .active a{
+    color: red !important;
+
+}
+
+.imground{
+	padding-top: 40px;
+	padding-left: 480px;
+}
+
+.our{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.row2,.row1,.row3{
+	padding-top: 20px;
+}
+h5.row1,.row2,.row3{
+	text-align: center;
+
+}
+
+.aboutus{
+	padding-top: 30px;
+}
+
+
+.r{
+  display: flex;
+}
+
+.r > div {
+  flex: 1;
+  background-color: : #ffc266;
+  border: 1px solid grey;
+
+  margin-top: 250px;
+}
+
+
+.search{
+	margin-left: 40%;
+	margin-bottom: 10px;
+}
+
+
+.b{
+  display: flex;
+}
+
+.b > div {
+  flex: 1;
+  background-color: : #ffc266;
+  border: 1px solid grey;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+}
